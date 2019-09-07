@@ -1,0 +1,45 @@
+html{
+  font-family: verdana;
+  font-size:x-large;
+  background-color: #412F51;
+}
+h1{
+  color:#E2ADF7;
+}
+h2{
+  color:#88CCE5;
+}
+.foto
+{
+  float: left;
+}
+.datos{
+  text-align: right;
+  list-style-type: none;
+  font-size: x-large;
+  background-color: #D7BDE2;
+  color: #3F1A4F;
+}
+p
+{
+  color:white;
+}
+.foto3
+{
+  float:right;
+}
+ul
+{
+  color:#3F1A4F;
+  background-color: #D7BDE2;
+}
+input
+{
+  font-size:30px;
+        font-family:Verdana;
+        color:black;
+        background:silver;
+        border:5px;
+        width:200px;
+        height:40px;
+}
